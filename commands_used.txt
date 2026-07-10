@@ -1,0 +1,87 @@
+    1  sudo apt update
+    2  sudo apt install ngnix -y 
+    3  clear
+    4  sudo apt install nginx -y 
+    5  sudo systemctl status nginx
+    6  sudo systemctl restart nginx
+    7  sudo systemctl status nginx
+    8  df
+    9  df -h
+   10  free
+   11  free -h'
+   12  free
+   13  free -h
+   14  htop
+   15  top
+   16  htop
+   17  cd /var/www/html
+   18  ls
+   19  vi index.html
+   20  ls
+   21  sudo vi index.html
+   22  ls
+   23  cd 
+   24  sudo systemctl restart nginx
+   25  sudo systemctl enable nginx
+   26  sudo systemctl restart nginx
+   27  curl http://localhost
+   28  sudo vi /var/www/html/index.html
+   29  sudo systemctl restart nginx
+   30  sudo vi /var/www/html/index.html
+   31  sudo systemctl restart nginx
+   32  ping 3.230.149.94
+   33  sudo apt install -y docker.io
+   34  ls'
+   35  ls
+   36  vi nginx_restart.sh
+   37  crontab
+   38  crontab -e
+   39  crontab -l
+   40  sudo apt install crontab
+   41  crontab -a
+   42  man crontab
+   43  crontab -e
+   44  crontab -e 
+   45  chmod +x restart_nginx.sh
+   46  chmod +x nginx_restart.sh
+   47  crontab -e
+   48  vi nginx_restart.sh
+   49  crontab -e
+   50  vi nginx_restart.sh
+   51  sudo systemctl start docker
+   52  sudo systemctl enable docker
+   53  sudo apt install -y docker.io
+   54  sudo systemctl start docker
+   55  sudo systemctl enable docker
+   56  sudo docker-run helloworld
+   57  sudo docker run helloworld
+   58  sudo usermod -aG docker wheel
+   59  sudo usermod -aG docker sudoers
+   60  sudo usermod -aG docker sudo
+   61  sudo usermod -aG docker admin
+   62  sudo docker run helloworld
+   63  sudo docker run hello-world
+   64  ubuntu --version
+   65  --version
+   66  ubuntu --version
+   67  sudo apt install nginx -y
+   68  ps -ef
+   69  ls
+   70  cat /var/www/html/index.html
+   71  sudo apt install git
+   72  git init
+   73  git add .
+   74  git remote add origin https://github.com/AkshayKumar-58/AWS-DevOps-Engineer-Intern-Assignment.git
+   75  cat /var/www/html/index.html
+   76  vi index.html
+   77  ls
+   78  git add .
+   79  git init
+   80  cat nginx_restart.sh 
+   81  history 2>&1 all
+   82  history 2>1 all
+   83  cat all
+   84  history 2&>1 all
+   85  ls
+   86  cat 1
+   87  history > all
